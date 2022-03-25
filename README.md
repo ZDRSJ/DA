@@ -16,10 +16,10 @@
 
 - **table/csv : EDA 완료 데이터셋 폴더**
 
-   - csv for general : 모델링 또는 EDA 등 일반적 편의에 따라 사용하는 csv
+   - csv_general : 모델링 또는 EDA 등 일반적 편의에 따라 사용하는 csv
      - total_merge_data_eda.csv
      
-   - csv for table : 추후 데이터 파이프라인 구축을 위한 table용 csv
+   - csv_table : 추후 데이터 파이프라인 구축을 위한 table용 csv
    
      - crawling_data_eda.csv
      - economic_data_eda.csv
