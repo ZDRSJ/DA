@@ -40,3 +40,10 @@
      - crawling_data_eda.csv
      - economic_data_eda.csv
      - price_data_eda.csv
+   - data : crawling 생성 data
+
+   - chromedriver : selenium을 위한 chrome driver
+
+   -realstates_Fail.py : crawling 실패
+
+   -realstates_Success.py : crawling 성공
