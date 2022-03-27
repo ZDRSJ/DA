@@ -27,3 +27,16 @@
      - crawling_data_eda.csv
      - economic_data_eda.csv
      - price_data_eda.csv
+
+- **crawling : crawling code 및 data 폴더**
+
+   - csv_general : 모델링 또는 EDA 등 일반적 편의에 따라 사용하는 csv
+
+     - total_merge_data_eda.csv : 국토부 아파트 실거래가 데이터셋 merge 데이터셋
+     - ml_data.csv : 머신러닝 모델에 사용을 위한 EDA 데이터셋
+
+   - csv_table : 추후 데이터 파이프라인 구축을 위한 table용 csv
+   
+     - crawling_data_eda.csv
+     - economic_data_eda.csv
+     - price_data_eda.csv
